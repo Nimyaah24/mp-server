@@ -1,0 +1,163 @@
+{
+  "videos": [
+    {
+      "caption": "Manjummel Boys",
+      "image": "https://image.tmdb.org/t/p/original/s5HBKH7hNo8EElJTFQPEDwYgXhG.jpg",
+      "url": " https://www.youtube.com/embed/id848Ww1YLo",
+      "id": 2
+    },
+    {
+      "caption": "2018",
+      "image": "https://xstreamcp-assets-msp.streamready.in/assets/SONYLIV_VOD/MOVIE/6485910782488153bfe3ede7/images/2018_2_portrait_thumb_airtel.jpg",
+      "url": " https://www.youtube.com/embed/Af3cjNPhM4o",
+      "id": 3
+    },
+    {
+      "caption": "KGF 2",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d0/K.G.F_Chapter_2.jpg",
+      "url": " https://www.youtube.com/embed/fQOjh-mmNKo",
+      "id": 4
+    },
+    {
+      "caption": "Rakshasan",
+      "image": "https://m.media-amazon.com/images/S/pv-target-images/f8ae0f025da53da55c25b022590c10dc26e42bd47aa435998965179dddae2444.jpg",
+      "url": " https://www.youtube.com/embed/ZkJr6EVkBaU",
+      "id": 5
+    },
+    {
+      "caption": "Big B",
+      "image": "https://image.tmdb.org/t/p/original/bXmioH1kqrKQ7TUVZNCznuT73Pp.jpg",
+      "url": " https://www.youtube.com/embed/sCYjHkzfs-s",
+      "id": 6
+    },
+    {
+      "caption": "Vikram",
+      "image": "https://www.ticketly.eu/Photos/Event/Event_28034.jpg",
+      "url": " https://www.youtube.com/embed/OKBMCL-frPU",
+      "id": 7
+    },
+    {
+      "caption": "Kannur Squad",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kannur-squad-et00370432-1695369010.jpg",
+      "url": " https://www.youtube.com/embed/j7uWUMd_ItE",
+      "id": 8
+    }
+  ],
+  "category": [
+    {
+      "CategoryName": "None",
+      "allVideo": [],
+      "id": 3
+    },
+    {
+      "CategoryName": "Malayalam Trailer",
+      "allVideo": [
+        {
+          "caption": "2018",
+          "image": "https://xstreamcp-assets-msp.streamready.in/assets/SONYLIV_VOD/MOVIE/6485910782488153bfe3ede7/images/2018_2_portrait_thumb_airtel.jpg",
+          "url": " https://www.youtube.com/embed/Af3cjNPhM4o",
+          "id": 3
+        }
+      ],
+      "id": 4
+    },
+    {
+      "CategoryName": "Tamil Trailer",
+      "allVideo": [
+        {
+          "caption": "Rakshasan",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/f8ae0f025da53da55c25b022590c10dc26e42bd47aa435998965179dddae2444.jpg",
+          "url": " https://www.youtube.com/embed/ZkJr6EVkBaU",
+          "id": 5
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "history": [
+    {
+      "caption": "Turbo",
+      "url": " https://www.youtube.com/embed/LOE8ESPIMpE",
+      "timeStamp": "20/06/2024, 23:22:01",
+      "id": 1
+    },
+    {
+      "caption": "Manjummel Boys",
+      "url": " https://www.youtube.com/embed/id848Ww1YLo",
+      "timeStamp": "20/06/2024, 23:23:54",
+      "id": 2
+    },
+    {
+      "caption": "2018",
+      "url": " https://www.youtube.com/embed/Af3cjNPhM4o",
+      "timeStamp": "20/06/2024, 23:25:05",
+      "id": 3
+    },
+    {
+      "caption": "KGF 2",
+      "url": " https://www.youtube.com/embed/fQOjh-mmNKo",
+      "timeStamp": "20/06/2024, 23:25:15",
+      "id": 4
+    },
+    {
+      "caption": "KGF 2",
+      "url": " https://www.youtube.com/embed/fQOjh-mmNKo",
+      "timeStamp": "25/06/2024, 19:47:46",
+      "id": 5
+    },
+    {
+      "caption": "KGF 2",
+      "url": " https://www.youtube.com/embed/fQOjh-mmNKo",
+      "timeStamp": "25/06/2024, 19:47:50",
+      "id": 6
+    },
+    {
+      "caption": "KGF 2",
+      "url": " https://www.youtube.com/embed/fQOjh-mmNKo",
+      "timeStamp": "25/06/2024, 21:57:55",
+      "id": 7
+    },
+    {
+      "caption": "KGF 2",
+      "url": " https://www.youtube.com/embed/fQOjh-mmNKo",
+      "timeStamp": "25/06/2024, 22:01:15",
+      "id": 8
+    },
+    {
+      "caption": "KGF 2",
+      "url": " https://www.youtube.com/embed/fQOjh-mmNKo",
+      "timeStamp": "25/06/2024, 22:01:19",
+      "id": 9
+    },
+    {
+      "caption": "KGF 2",
+      "url": " https://www.youtube.com/embed/fQOjh-mmNKo",
+      "timeStamp": "25/06/2024, 22:03:09",
+      "id": 10
+    },
+    {
+      "caption": "Rakshasan",
+      "url": " https://www.youtube.com/embed/ZkJr6EVkBaU",
+      "timeStamp": "27/06/2024, 16:25:57",
+      "id": 11
+    },
+    {
+      "caption": "Rakshasan",
+      "url": " https://www.youtube.com/embed/ZkJr6EVkBaU",
+      "timeStamp": "27/06/2024, 16:39:35",
+      "id": 12
+    },
+    {
+      "caption": "Manjummel Boys",
+      "url": " https://www.youtube.com/embed/id848Ww1YLo",
+      "timeStamp": "27/06/2024, 16:42:34",
+      "id": 13
+    },
+    {
+      "caption": "Kannur Squad",
+      "url": " https://www.youtube.com/embed/j7uWUMd_ItE",
+      "timeStamp": "27/06/2024, 17:17:09",
+      "id": 14
+    }
+  ]
+}
